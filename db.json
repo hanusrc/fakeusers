@@ -1,0 +1,57 @@
+[
+
+    {   "id":"C0001",
+        "firstName":"Hanu",
+        "surName":"Pateelu",
+        "contactPoint": [
+            {
+                "mobile": {
+                    "phoneCountryCode": "971",
+                    "phoneNumber": "552750367"
+                },
+                "personalPhone": {
+                    "phoneCountryCode": "971",
+                    "phoneNumber": "98876233"
+                }
+            },
+            {
+                "mobile": {
+                    "phoneCountryCode": "91",
+                    "phoneNumber": "837432473"
+                },
+                "personalPhone": {
+                    "phoneCountryCode": "971",
+                    "phoneNumber": "000"
+                }
+            }
+        ]
+    },
+    {   "id":"C0002",
+        "firstName":"Mounika",
+        "surName":"Pateelu",
+        "contactPoint": [
+            {
+                "mobile": {
+                    "phoneCountryCode": "971",
+                    "phoneNumber": "998999"
+                },
+                "personalPhone": {
+                    "phoneCountryCode": "971",
+                    "phoneNumber": "2322323234"
+                }
+            },
+            {
+                "mobile": {
+                    "phoneCountryCode": "91",
+                    "phoneNumber": "563223445"
+                },
+                "personalPhone": {
+                    "phoneCountryCode": "971",
+                    "phoneNumber": "9887666"
+                }
+            }
+        ]
+    }
+
+
+]
